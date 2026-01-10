@@ -96,13 +96,22 @@ Providing <b>Web Development, SEO, Business Websites, Admin Panels & Automation 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanchitgupta114-pixel&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=sanchitgupta114-pixel&show_icons=true&theme=tokyonight&hide_title=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanchitgupta114-pixel&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanchitgupta114-pixel&theme=tokyonight"/>
 </p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanchitgupta114-pixel&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanchitgupta114-pixel&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanchitgupta114-pixel&theme=tokyonight"/>
+</p>
+
 
 
 ---
