@@ -44,7 +44,7 @@ Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, 
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/" target="_blank">
+<a href="https://www.instagram.com/web_spark.io/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
