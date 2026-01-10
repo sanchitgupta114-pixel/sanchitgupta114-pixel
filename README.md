@@ -1,3 +1,4 @@
+<!-- ================= HERO ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=260&section=header&text=Sanchit%20Gupta&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20Developer%20%7C%20Web%20Spark%20%7C%20Apex%20Network&descAlignY=65"/>
 </p>
@@ -10,12 +11,19 @@
 <img src="https://komarev.com/ghpvc/?username=sanchitgupta114-pixel&label=Profile%20Views&color=2563eb&style=for-the-badge"/>
 </p>
 
-<h2 align="center">Hi 👋 I'm Sanchit Gupta</h2>
-<h4 align="center">Full-Stack Web Developer | PHP • WordPress • SEO • Web Security</h4>
+---
+
+## 👋 About Me
+
+<h3 align="center">Hi, I'm Sanchit Gupta</h3>
+<p align="center">
+Full-Stack Web Developer specializing in <b>PHP, WordPress, SEO, Web Security & Performance</b><br>
+I help businesses build <b>high-converting, fast & secure web platforms</b>.
+</p>
 
 <p align="center">
-I build <b>modern, fast & high-converting websites</b> for businesses, startups and agencies.<br>
-Specialized in <b>Custom PHP Systems, WordPress Development, SEO, Admin Panels & Performance Optimization</b>.
+<a href="https://apexnetworkwebagency.co.in/contact"><img src="https://img.shields.io/badge/🚀%20Hire%20Me-2563eb?style=for-the-badge"/></a>
+<a href="https://apexnetworkwebagency.co.in"><img src="https://img.shields.io/badge/🌐%20Visit%20Agency-0f172a?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -28,8 +36,8 @@ Specialized in <b>Custom PHP Systems, WordPress Development, SEO, Admin Panels &
 </p>
 
 <p align="center">
-<b>Web Spark</b> is my professional web development agency under <b>Apex Network</b> —  
-Providing <b>Web Development, SEO, Business Websites, Admin Panels & Automation Systems</b>.
+<b>Web Spark</b> is my digital agency under <b>Apex Network</b>, delivering  
+<b>Web Development, SEO, Business Websites, Admin Panels & Automation Systems</b>.
 </p>
 
 ---
@@ -37,21 +45,11 @@ Providing <b>Web Development, SEO, Business Websites, Admin Panels & Automation 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-e11d48?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="https://wa.me/91XXXXXXXXXX" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-16a34a?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="mailto:sanchitgupta114@gmail.com">
-<img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-e11d48?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://wa.me/91XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-16a34a?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:sanchitgupta114@gmail.com"><img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -73,27 +71,20 @@ Providing <b>Web Development, SEO, Business Websites, Admin Panels & Automation 
 <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/SEO-16a34a?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web%20Security-dc2626?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-</p>
-
 ---
 
 ## 🚀 What I Do
 
 - Business & Agency Websites  
-- Custom PHP Web Applications  
+- Custom PHP Applications  
 - WordPress Theme & Plugin Development  
-- Secure Admin Panels & Dashboards  
-- SEO, Speed Optimization & Core Web Vitals  
-- Website Security, Malware Protection & Hardening  
+- Secure Admin Dashboards  
+- SEO, Speed & Core Web Vitals  
+- Website Security & Malware Protection  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Performance Dashboard
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sanchitgupta114-pixel&show_icons=true&theme=tokyonight&hide_title=true"/>
@@ -103,89 +94,71 @@ Providing <b>Web Development, SEO, Business Websites, Admin Panels & Automation 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanchitgupta114-pixel&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanchitgupta114-pixel&theme=tokyonight&utcOffset=5.5"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanchitgupta114-pixel&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanchitgupta114-pixel&theme=tokyonight"/>
-</p>
-
-
-
 ---
+
+## 📈 Skill Proficiency
+
+<table align="center">
+<tr><td>HTML & CSS</td><td><img src="https://progress-bar.dev/95/?title=Expert&color=2563eb"/></td></tr>
+<tr><td>JavaScript</td><td><img src="https://progress-bar.dev/85/?title=Advanced&color=2563eb"/></td></tr>
+<tr><td>PHP</td><td><img src="https://progress-bar.dev/90/?title=Expert&color=2563eb"/></td></tr>
+<tr><td>WordPress</td><td><img src="https://progress-bar.dev/95/?title=Expert&color=2563eb"/></td></tr>
+<tr><td>MySQL</td><td><img src="https://progress-bar.dev/85/?title=Advanced&color=2563eb"/></td></tr>
+<tr><td>Laravel</td><td><img src="https://progress-bar.dev/80/?title=Advanced&color=2563eb"/></td></tr>
+<tr><td>SEO</td><td><img src="https://progress-bar.dev/92/?title=Pro&color=16a34a"/></td></tr>
+<tr><td>Web Security</td><td><img src="https://progress-bar.dev/88/?title=Pro&color=dc2626"/></td></tr>
+</table>
+
 
 ## 🚀 Live Projects
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center">
 <a href="https://apexnetworkwebagency.co.in" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/216656982-3d7e5f4e-9a88-4fa6-a17a-5f4bfc77cb1f.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/sanchitgupta114-pixel/sanchitgupta114-pixel/main/apex-preview.png"/>
 <br><b>Apex Network Web Agency</b>
 </a>
 <br>High-performance business website with SEO & lead generation
 </td>
 
-<td align="center" width="50%">
+<td width="50%" align="center">
 <a href="#" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/216657112-d2d77c2d-6d71-41b4-9b48-2edb8578f832.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/sanchitgupta114-pixel/sanchitgupta114-pixel/main/cms-preview.png"/>
 <br><b>PHP Blog CMS</b>
 </a>
-<br>Custom CMS with Admin Panel, SEO, Slug system & security
+<br>Custom CMS with admin panel, SEO & secure login system
 </td>
 </tr>
 </table>
 
+
+
 ---
 
+## 🏆 Trust & Experience
+
 <p align="center">
+<img src="https://img.shields.io/badge/50%2B%20Happy%20Clients-16a34a?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/5%2B%20Years%20Experience-2563eb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/100%2B%20Projects-16a34a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SEO%20Optimized%20Websites-facc15?style=for-the-badge&logo=google&logoColor=000"/>
-<img src="https://img.shields.io/badge/Secure%20Coding-dc2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fast%20Delivery-facc15?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SEO%20Focused-dc2626?style=for-the-badge"/>
 </p>
 
-⭐ **Let’s build something powerful together.**
+---
 
-<p align="center">
-<a href="https://apexnetworkwebagency.co.in/contact" target="_blank">
-<img src="https://img.shields.io/badge/🚀%20Hire%20Me%20Now-2563eb?style=for-the-badge"/>
-</a>
-<a href="https://apexnetworkwebagency.co.in" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Visit%20Agency%20Website-0f172a?style=for-the-badge"/>
-</a>
-</p>
+## 💬 Client Feedback
 
-## 🏆 Why Clients Choose Me
-
-<p align="center">
-<img src="https://img.shields.io/badge/✔%2050%2B%20Happy%20Clients-16a34a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/✔%205%2B%20Years%20Experience-2563eb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/✔%20Fast%20Delivery-facc15?style=for-the-badge&logo=clock&logoColor=000"/>
-<img src="https://img.shields.io/badge/✔%20SEO%20Focused-dc2626?style=for-the-badge"/>
-</p>
-## 💡 What Makes Me Different
-
-- I build **SEO-ready websites**, not just designs  
-- My systems are **secure, fast & scalable**  
-- Every project is built with **business growth in mind**  
-- I provide **agency-level quality at freelancer speed**
-
-
-📍 **Location:** India  
-🌍 **Available for:** Global Projects  
-⏱ **Response Time:** Within 24 Hours
-
-## 💬 What Clients Say
-
-> “Sanchit delivered our website faster than expected and it ranks on Google already.”  
-> — Business Owner, India  
+> “Sanchit delivered our website faster than expected and it already ranks on Google.”  
+> — Business Owner  
 
 > “Professional, responsive and technically strong. Highly recommended.”  
-> — Startup Founder
+> — Startup Founder  
 
-https://raw.githubusercontent.com/sanchitgupta114-pixel/sanchitgupta114-pixel/main/filename.png
+---
 
+📍 **Location:** India  
+🌍 **Serving Clients Worldwide**  
+⏱ **Response Time:** Within 24 Hours  
 
+⭐ *Let’s build something powerful together.*
