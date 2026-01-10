@@ -96,7 +96,8 @@ Providing <b>Web Development, SEO, Business Websites, Admin Panels & Automation 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanchitgupta114-pixel&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=sanchitgupta114-pixel&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
