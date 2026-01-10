@@ -28,7 +28,7 @@ Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, 
 <a href="https://apexnetworkwebagency.co.in"><img src="https://img.shields.io/badge/🌐%20Visit%20Agency-0f172a?style=for-the-badge"/></a>
 </p>
 
----
+
 
 ## 🏢 Web Spark & Apex Network
 
@@ -41,15 +41,31 @@ Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sanchit-gupta-524162392
-"><img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-e11d48?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://wa.me/9354911550"><img src="https://img.shields.io/badge/WhatsApp-16a34a?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="mailto:sanchitgupta114@gmail.com"><img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/sanchit-gupta-524162392" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/9354911550" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="mailto:sanchitgupta114@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
----
+
+
 
 ## 🧑‍💻 Tech Stack
 
@@ -119,7 +135,6 @@ Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, 
 <tr>
 <td width="50%" align="center">
 <a href="https://apexnetworkwebagency.co.in" target="_blank">
-<img src="https://raw.githubusercontent.com/sanchitgupta114-pixel/sanchitgupta114-pixel/main/apex-preview.png"/>
 <br><b>Apex Network Web Agency</b>
 </a>
 <br>High-performance business website with SEO & lead generation
@@ -127,7 +142,6 @@ Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, 
 
 <td width="50%" align="center">
 <a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/sanchitgupta114-pixel/sanchitgupta114-pixel/main/cms-preview.png"/>
 <br><b>PHP Blog CMS</b>
 </a>
 <br>Custom CMS with admin panel, SEO & secure login system
@@ -136,8 +150,6 @@ Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, 
 </table>
 
 
-
----
 
 ## 🏆 Trust & Experience
 
@@ -148,7 +160,7 @@ Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, 
 <img src="https://img.shields.io/badge/SEO%20Focused-dc2626?style=for-the-badge"/>
 </p>
 
----
+
 
 ## 💬 Client Feedback
 
@@ -158,7 +170,7 @@ Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, 
 > “Professional, responsive and technically strong. Highly recommended.”  
 > — Startup Founder  
 
----
+
 
 📍 **Location:** India  
 🌍 **Serving Clients Worldwide**  
