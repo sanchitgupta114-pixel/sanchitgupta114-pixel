@@ -33,17 +33,11 @@ Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, 
 
 ## 🏢 Web Spark & Apex Network
 
-<p align="center">
-<img src="https://img.shields.io/badge/Founder%20%40-Web%20Spark-2563eb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Powered%20By-Apex%20Network-0f172a?style=for-the-badge"/>
-</p>
+🏢 Web Spark
+<p align="center"> <img src="https://img.shields.io/badge/Digital%20Agency-Web%20Spark-2563eb?style=for-the-badge"/> </p> <p align="center"> <b>Web Spark</b> is a modern digital agency focused on building <b>high-converting business websites, SEO-optimized platforms, landing pages & brand-focused web solutions</b> for startups, local businesses, and growing brands. </p> <p align="center"> 🚀 Services: Web Design • Business Websites • SEO • Landing Pages • Branding </p>
 
-<p align="center">
-<b>Web Spark</b> is my digital agency under <b>Apex Network</b>, delivering  
-<b>Web Development, SEO, Business Websites, Admin Panels & Automation Systems</b>.
-</p>
-
----
+🌐 Apex Network
+<p align="center"> <img src="https://img.shields.io/badge/Tech%20Platform-Apex%20Network-0f172a?style=for-the-badge"/> </p> <p align="center"> <b>Apex Network</b> is a powerful web technology platform that delivers <b>custom web applications, admin panels, CRM systems, automation tools & backend solutions</b> for businesses that need scalability and performance. </p> <p align="center"> ⚙️ Focus: Web Apps • Admin Dashboards • Automation • Security • Performance </p>---
 
 ## 🌐 Connect With Me
 
