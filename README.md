@@ -73,6 +73,12 @@ I help businesses build <b>high-converting, fast & secure web platforms</b>.
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+
 ## 🚀 What I Do
 
 - Business & Agency Websites  
