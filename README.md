@@ -10,9 +10,6 @@ Specialized in PHP, WordPress, SEO & Admin Panels.
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://apexnetworkwebagency.co.in" target="_blank">
-<img src="https://img.shields.io/badge/Website-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
 <a href="mailto:sanchitgupta114@gmail.com">
 <img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
