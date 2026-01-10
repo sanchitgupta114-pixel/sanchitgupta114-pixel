@@ -152,8 +152,8 @@ Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, 
 ## 🏆 Trust & Experience
 
 <p align="center">
-<img src="https://img.shields.io/badge/50%2B%20Happy%20Clients-16a34a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/5%2B%20Years%20Experience-2563eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/10%2B%20Happy%20Clients-16a34a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/1%2B%20Years%20Experience-2563eb?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Fast%20Delivery-facc15?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SEO%20Focused-dc2626?style=for-the-badge"/>
 </p>
