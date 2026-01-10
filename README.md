@@ -48,10 +48,10 @@ Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/sanchit-gupta-524162392"><img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-e11d48?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://wa.me/91XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-16a34a?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/9354911550"><img src="https://img.shields.io/badge/WhatsApp-16a34a?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="mailto:sanchitgupta114@gmail.com"><img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -65,16 +65,24 @@ Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, 
 <img src="https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=000"/>
 <img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-16a34a?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-0ea5e9?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=000"/>
+<img src="https://img.shields.io/badge/API-2563eb?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
 
 ## 📊 GitHub Stats
 <p align="center">
