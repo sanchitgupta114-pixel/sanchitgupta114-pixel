@@ -19,8 +19,10 @@
 <h3 align="center">Hi, I'm Sanchit Gupta</h3>
 <p align="center">
 Full-Stack Web Developer specializing in <b>PHP, WordPress, SEO, Web Security & Performance</b><br>
-I help businesses build <b>high-converting, fast & secure web platforms</b>.
+I help businesses build <b>high-converting, fast & secure web platforms</b>.<br>
+Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, delivering modern websites, admin panels, and scalable business solutions for startups and brands worldwide.
 </p>
+
 
 <p align="center">
 <a href="https://apexnetworkwebagency.co.in/contact"><img src="https://img.shields.io/badge/🚀%20Hire%20Me-2563eb?style=for-the-badge"/></a>
