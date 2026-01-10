@@ -1,5 +1,3 @@
-
-<!-- ================= HERO ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=260&section=header&text=Sanchit%20Gupta&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20Developer%20%7C%20Web%20Spark%20%7C%20Apex%20Network&descAlignY=65"/>
 </p>
@@ -36,7 +34,7 @@ Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, 
 <p align="center"> <img src="https://img.shields.io/badge/Digital%20Agency-Web%20Spark-2563eb?style=for-the-badge"/> </p> <p align="center"> <b>Web Spark</b> is a modern digital agency focused on building <b>high-converting business websites, SEO-optimized platforms, landing pages & brand-focused web solutions</b> for startups, local businesses, and growing brands. </p> <p align="center"> 🚀 Services: Web Design • Business Websites • SEO • Landing Pages • Branding </p>
 
 🌐 Apex Network
-<p align="center"> <img src="https://img.shields.io/badge/Tech%20Platform-Apex%20Network-0f172a?style=for-the-badge"/> </p> <p align="center"> <b>Apex Network</b> is a powerful web technology platform that delivers <b>custom web applications, admin panels, CRM systems, automation tools & backend solutions</b> for businesses that need scalability and performance. </p> <p align="center"> ⚙️ Focus: Web Apps • Admin Dashboards • Automation • Security • Performance </p>---
+<p align="center"> <img src="https://img.shields.io/badge/Tech%20Platform-Apex%20Network-0f172a?style=for-the-badge"/> </p> <p align="center"> <b>Apex Network</b> is a powerful web technology platform that delivers <b>custom web applications, admin panels, CRM systems, automation tools & backend solutions</b> for businesses that need scalability and performance. </p> <p align="center"> ⚙️ Focus: Web Apps • Admin Dashboards • Automation • Security • Performance </p>
 
 ## 🌐 Connect With Me
 
