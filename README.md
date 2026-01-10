@@ -1,6 +1,6 @@
 <!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=260&section=header&text=Sanchit%20Gupta&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20Developer%20%7C%20Web%20Spark%20%7C%20Apex%20Network&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=260&section=header&text=Sanchit%20Gupta&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20Developer%20%7C%20Web%20Spark%20%7C"/>
 </p>
 
 <p align="center">
