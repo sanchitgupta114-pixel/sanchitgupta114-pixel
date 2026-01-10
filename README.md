@@ -57,6 +57,11 @@ I help businesses build <b>high-converting, fast & secure web platforms</b>.
 ## 🧑‍💻 Tech Stack
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,wordpress,laravel,bootstrap,tailwind,git,github" />
+</p>
+
+
+<p align="center">
 <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=000"/>
