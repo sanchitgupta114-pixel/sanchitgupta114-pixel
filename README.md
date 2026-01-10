@@ -57,24 +57,20 @@ I help businesses build <b>high-converting, fast & secure web platforms</b>.
 ## 🧑‍💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,wordpress,laravel,bootstrap,tailwind,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,wordpress,laravel,bootstrap,tailwind,git,github"/>
 </p>
 
+<table align="center">
+<tr><td>HTML & CSS</td><td><img src="https://progress-bar.dev/95/?title=Expert&color=2563eb"/></td></tr>
+<tr><td>JavaScript</td><td><img src="https://progress-bar.dev/85/?title=Advanced&color=2563eb"/></td></tr>
+<tr><td>PHP</td><td><img src="https://progress-bar.dev/90/?title=Expert&color=2563eb"/></td></tr>
+<tr><td>WordPress</td><td><img src="https://progress-bar.dev/95/?title=Expert&color=16a34a"/></td></tr>
+<tr><td>MySQL</td><td><img src="https://progress-bar.dev/85/?title=Advanced&color=2563eb"/></td></tr>
+<tr><td>Laravel</td><td><img src="https://progress-bar.dev/80/?title=Advanced&color=dc2626"/></td></tr>
+<tr><td>SEO</td><td><img src="https://progress-bar.dev/92/?title=Pro&color=facc15"/></td></tr>
+<tr><td>Web Security</td><td><img src="https://progress-bar.dev/88/?title=Pro&color=0f172a"/></td></tr>
+</table>
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=000"/>
-<img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
 
 ---
 
