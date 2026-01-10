@@ -148,3 +148,44 @@ Providing <b>Web Development, SEO, Business Websites, Admin Panels & Automation 
 </p>
 
 ⭐ **Let’s build something powerful together.**
+
+<p align="center">
+<a href="https://apexnetworkwebagency.co.in/contact" target="_blank">
+<img src="https://img.shields.io/badge/🚀%20Hire%20Me%20Now-2563eb?style=for-the-badge"/>
+</a>
+<a href="https://apexnetworkwebagency.co.in" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Visit%20Agency%20Website-0f172a?style=for-the-badge"/>
+</a>
+</p>
+
+## 🏆 Why Clients Choose Me
+
+<p align="center">
+<img src="https://img.shields.io/badge/✔%2050%2B%20Happy%20Clients-16a34a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/✔%205%2B%20Years%20Experience-2563eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/✔%20Fast%20Delivery-facc15?style=for-the-badge&logo=clock&logoColor=000"/>
+<img src="https://img.shields.io/badge/✔%20SEO%20Focused-dc2626?style=for-the-badge"/>
+</p>
+## 💡 What Makes Me Different
+
+- I build **SEO-ready websites**, not just designs  
+- My systems are **secure, fast & scalable**  
+- Every project is built with **business growth in mind**  
+- I provide **agency-level quality at freelancer speed**
+
+
+📍 **Location:** India  
+🌍 **Available for:** Global Projects  
+⏱ **Response Time:** Within 24 Hours
+
+## 💬 What Clients Say
+
+> “Sanchit delivered our website faster than expected and it ranks on Google already.”  
+> — Business Owner, India  
+
+> “Professional, responsive and technically strong. Highly recommended.”  
+> — Startup Founder
+
+https://raw.githubusercontent.com/sanchitgupta114-pixel/sanchitgupta114-pixel/main/filename.png
+
+
