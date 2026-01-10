@@ -12,7 +12,6 @@
 <img src="https://komarev.com/ghpvc/?username=sanchitgupta114-pixel&label=Profile%20Views&color=2563eb&style=for-the-badge"/>
 </p>
 
----
 
 ## 👋 About Me
 
@@ -82,28 +81,6 @@ Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, 
 </p>
 
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanchitgupta114-pixel&theme=dark&hide_border=true&border_radius=10" />
-</p>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanchitgupta114-pixel&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanchitgupta114-pixel&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
-
-
-
 ## 🚀 What I Do
 
 - Business & Agency Websites  
@@ -117,9 +94,6 @@ Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, 
 
 ## 📊 Performance Dashboard
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanchitgupta114-pixel&show_icons=true&theme=tokyonight&hide_title=true"/>
-</p>
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanchitgupta114-pixel&theme=tokyonight"/>
@@ -135,7 +109,7 @@ Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, 
 </p>
 
 
----
+
 
 
 
