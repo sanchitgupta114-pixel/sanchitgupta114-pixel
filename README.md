@@ -106,25 +106,6 @@ Founder of <b>Web Spark</b> & Lead Developer at <b>Apex Network Web Agency</b>, 
 
 ---
 
-## 📊 Performance Dashboard
-
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanchitgupta114-pixel&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanchitgupta114-pixel&theme=tokyonight&utcOffset=5.5"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanchitgupta114-pixel&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanchitgupta114-pixel&theme=tokyonight"/>
-</p>
-
-
-
-
 
 
 ## 🚀 Live Projects
