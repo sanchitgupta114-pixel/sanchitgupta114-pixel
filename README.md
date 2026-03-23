@@ -149,12 +149,18 @@ Using modern tools to streamline development and ensure high-quality delivery.
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|------|-------------|
-| 🌐 Apex Network Agency Website | High-performance SEO optimized agency website |
-| 📰 PHP Blog CMS | Custom CMS with secure admin panel |
-| 📊 Admin Dashboard System | Dynamic dashboard for business management |
-| 🏫 IRIS School Website | Educational institution website with modern UI |
+| Project                        | Description                                            |
+| ------------------------------ | ------------------------------------------------------ |
+| 🌐 Apex Network Agency Website | High-performance SEO optimized agency website          |
+| 📰 PHP Blog CMS                | Custom CMS with secure admin panel                     |
+| 📊 Admin Dashboard System      | Dynamic dashboard for business management              |
+| 🏫 IRIS School Website         | Educational institution website with modern UI         |
+| ✈️ Aviation Training Website   | Premium aviation institute website with modern UI/UX   |
+| 💻 Tech Growth Platform        | Scalable tech learning & development platform          |
+| 🍽️ Restaurant Website         | Elegant restaurant website with menu & booking system  |
+| 🛒 E-commerce Store            | Fully functional online store with payment integration |
+| 📱 Portfolio Website           | Personal branding portfolio with animations            |
+| 🏢 Business Landing Page       | High-converting landing page for startups              |
 
 ---
 
