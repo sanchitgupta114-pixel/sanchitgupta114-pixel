@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:2563eb,50:3b82f6,75:22c55e,100:06b6d4&height=280&section=header&text=Sanchit%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Founder%20Web%20Spark%20|%20Apex%20Network&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:2563eb,50:3b82f6,75:22c55e,100:06b6d4&height=280&section=header&text=Sanchit%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Founder%20Tech%20Vines%20|%20Apex%20Network&descAlignY=60&descSize=20"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 # 👋 Hello, I'm Sanchit Gupta
 
 💻 **Full Stack Web Developer**  
-🚀 Founder of **Web Spark**  
+🚀 Founder of **TechVines**  
 🏢 Lead Developer at **Apex Network**
 
 I specialize in designing and developing **high-performance websites and web applications** that help businesses grow online.
@@ -63,13 +63,13 @@ Automated systems that save time and improve workflow efficiency.
 
 # 🌐 My Platforms
 
-## 🚀 Web Spark
+## 🚀 TechVines
 
 <p align="center">
 <img src="https://img.shields.io/badge/Digital%20Agency-Web%20Spark-22c55e?style=for-the-badge"/>
 </p>
 
-**Web Spark** is a modern digital agency focused on helping brands build a powerful online presence.
+**TechVines** is a modern digital agency focused on helping brands build a powerful online presence.
 
 We create websites that are not just beautiful — but **optimized for growth and conversions**.
 
